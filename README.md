@@ -4,7 +4,7 @@ A headless payload injector script for Linux. Meant to be used for making DIY pa
 
 # How to use
 
-> ⚠ This is not meant for a regular Linux desktop or server! If you have that setup and want to inject something, check out [web-fusee-launcher](https://github.com/atlas44/web-fusee-launcher) or [fusee-interfacee-tk]!
+> ⚠ This is not meant for a regular Linux desktop or server! If you have that setup and want to inject something, check out [web-fusee-launcher](https://github.com/atlas44/web-fusee-launcher) or [fusee-interfacee-tk](https://github.com/nh-server/fusee-interfacee-tk)!
 
 If you have realised that this is for embedded, headless (beheaded, headless, get it?) devices RUNNING GNU/LINUX, proceed to the below steps:
 
